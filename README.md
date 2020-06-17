@@ -1,5 +1,10 @@
 # brain-cell-type-peak-files
-H3K27ac ChIPseq, H3K4me3 ChIPseq, ATACseq peak files for neurons, microglia, oligodendrocytes and astrocytes
+
+H3K27ac/ # Peak files for H3K27ac ChIPseq generated using nuclei from human cortical resected brain tissue enriched for neuron (NeuN), microglia (PU1), oligodendrocyte (olig2) and astrocyte (LHX2) cell type populations.
+
+H3K4me3/ # Peak files for H3K4me3 ChIPseq generated using nuclei from human cortical resected brain tissue enriched for neuron (NeuN), microglia (PU1), oligodendrocyte (olig2) and astrocyte (LHX2) cell type populations.
+
+ATAC/ # Peak files for ATACseq generated using nuclei from human cortical resected brain tissue enriched for neuron (NeuN), microglia (PU1), oligodendrocyte (olig2) and astrocyte (LHX2) cell type populations.
 
 https://pubmed.ncbi.nlm.nih.gov/31727856/
 PMID: 31727856 PMCID: PMC7028213 DOI: 10.1126/science.aay0793
